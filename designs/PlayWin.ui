@@ -27,7 +27,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>../resurses/logo.png</normaloff>../resurses/logo.png</iconset>
+    <normaloff>../res/ingredients/logo.png</normaloff>../res/ingredients/logo.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QWidget" name="fridge_widget" native="true">
